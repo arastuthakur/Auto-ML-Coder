@@ -26,8 +26,8 @@ An automated machine learning project generator that creates unique, well-struct
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd Auto\ Coder
+git clone https://github.com/arastuthakur/Auto-ML-Coder
+cd Auto-ML-Coder
 ```
 
 2. Install dependencies:
